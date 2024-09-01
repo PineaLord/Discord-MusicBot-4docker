@@ -62,4 +62,9 @@ If you encounter issues, verify:
 - The `config.txt` file is correctly formatted and located in the appropriate directory.
 - Docker has the necessary permissions and access.
 
-Feel free to contribute to the repository by submitting issues or pull requests.
+
+## Acknowledgments
+
+A special thanks to Jagrosh for the development of the MusicBot. The original GitHub repository provides an excellent foundation for creating and managing a Discord music bot. We appreciate the effort and dedication that has gone into making MusicBot a powerful and versatile tool for music streaming on Discord.
+
+For more information, updates, and contributions, please visit the [MusicBot GitHub repository](https://github.com/jagrosh/MusicBot).
