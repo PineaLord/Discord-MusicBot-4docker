@@ -65,6 +65,6 @@ If you encounter issues, verify:
 
 ## Acknowledgments
 
-A special thanks to Jagrosh for the development of the MusicBot. The original GitHub repository provides an excellent foundation for creating and managing a Discord music bot. We appreciate the effort and dedication that has gone into making MusicBot a powerful and versatile tool for music streaming on Discord.
+A special thanks to [Jagrosh](https://github.com/jagrosh) for the development of the MusicBot. The original GitHub repository provides an excellent foundation for creating and managing a Discord music bot. We appreciate the effort and dedication that has gone into making MusicBot a powerful and versatile tool for music streaming on Discord.
 
 For more information, updates, and contributions, please visit the [MusicBot GitHub repository](https://github.com/jagrosh/MusicBot).
