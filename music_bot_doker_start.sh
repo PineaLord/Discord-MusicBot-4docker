@@ -70,9 +70,9 @@ fi
 # Step 6: Run the new container
 echo "Running the new container..."
 if docker run --name "$CONTAINER_NAME" -d \
-  -v "$BOT_DIR/config.txt:/app/config.txt:ro" \
-  -v "$BOT_DIR/serversettings.json:/app/serversettings.json:ro" \
-  -v "$BOT_DIR/Playlists:/app/Playlists:ro" \
+  -v "$BOT_DIR/config.txt:/app/config.txt:rw" \
+  -v "$BOT_DIR/serversettings.json:/app/serversettings.json:rw" \
+  -v "$BOT_DIR/Playlists:/app/Playlists:rw" \
   --restart=always \
   "$IMAGE_NAME"; then
     echo "Container $CONTAINER_NAME started successfully."
